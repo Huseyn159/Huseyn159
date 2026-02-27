@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c7/e9/8b/c7e98b0c410ab462fec25b0453716d80.gif" alt="3D Architecture" width="300"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Huseyn159&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=6" alt="Trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Docker;Building+Secure+%26+Scalable+APIs;Daily+LeetCode+Challenger" alt="Typing SVG" />
 </div>
 
 <br><br>
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
