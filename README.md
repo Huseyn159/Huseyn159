@@ -18,6 +18,6 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huseyn159&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Huseyn159&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   <img src="https://leetcard.jacoblin.cool/Huseyn25?theme=dark&font=M_PLUS_1p&ext=activity" alt="LeetCode Stats" width="48%" />
 </div>
