@@ -5,15 +5,15 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Docker;Building+Secure+%26+Scalable+APIs;Daily+LeetCode+Challenger" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Microservices;Building+Secure+%26+Scalable+APIs;Daily+LeetCode+Challenger" alt="Typing SVG" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <h3>⚡ Tech Stack & Tools</h3>
+  <h3>⚡ Tech Stack & Architecture</h3>
   
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
@@ -23,6 +23,16 @@
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <br>
+
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=kong&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eureka-000000?style=for-the-badge&logo=netflix&logoColor=E50914" />
+  <br>
+  <img src="https://img.shields.io/badge/Saga_Pattern-85EA2D?style=for-the-badge&logo=polkadot&logoColor=black" />
+  <img src="https://img.shields.io/badge/CQRS-316192?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/BFF-0db7ed?style=for-the-badge&logo=probot&logoColor=white" />
   <br>
   
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -50,3 +60,5 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </div>
+
+<br><br>
